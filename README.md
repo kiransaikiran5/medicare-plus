@@ -272,10 +272,3 @@ Contributions are welcome.
 
 This project is licensed under the MIT License.
 
----
-
-## 👨‍💻 Author
-
-**MediCare Plus Development Team**
-
-Building smarter healthcare management solutions.
